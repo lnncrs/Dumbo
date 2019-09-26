@@ -5,6 +5,6 @@
 Universidade Federal do ABC - Bacharelado em Ciência e Tecnologia  
 NuCli 2016  
 
-### [Abrir a apresentação](./docs/ApresentacaoDumbo.pdf)
+## [Abrir a apresentação](./docs/ApresentacaoDumbo.ppsx)
 
 ![Dumbo](./docs/images/ApresentacaoDumbo.png)
